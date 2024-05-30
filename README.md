@@ -19,36 +19,44 @@
 
 8. Tailwind CSS IntelliSense (Tailwind Labs) - Intelligent Tailwind CSS tooling for VS Code.
 
+9. HTML Boilerplate (sidthesloth)
+
 <h2>JavaScript Extensions:</h2>
 <br>
 
-9. JavaScript (ES6) Code Snippets (charalampos karypidis) - Extension offers a collection of handy code snippets that can save you time and effort while writing JavaScript code.
+10. JavaScript (ES6) Code Snippets (charalampos karypidis) - Extension offers a collection of handy code snippets that can save you time and effort while writing JavaScript code.
 
-10. ESLint (Microsoft) - It is a widely adopted linter that helps you catch errors, enforce coding standards, and improve code quality in JavaScript and TypeScript.
+11. ESLint (Microsoft) - It is a widely adopted linter that helps you catch errors, enforce coding standards, and improve code quality in JavaScript and TypeScript.
 
-11. Prettier (Prettier) - Code formatter that enforces consistent code style across your projects.
+12. Prettier (Prettier) - Code formatter that enforces consistent code style across your projects.
 
 <h2>PHP Extensions:</h2>
 <br>
 
-12. PHP Intelephense
+13. PHP Intelephense
 
-13. PHP DocBlocker
+14. PHP DocBlocker
 
-14. PHP Namespace Resolver
+15. PHP Namespace Resolver
 
 <h2>BOOST UP EDITOR:</h2>
 <br>
 
-15. Live Server (Ritwick Dey) - Allows you to create a local development server with live reloading.
+16. Live Server (Ritwick Dey) - Allows you to create a local development server with live reloading.
 
-16. Code Spell Checker (Street Side Software) - Spelling Checker for Visual Studio Code.
+17. Code Spell Checker (Street Side Software) - Spelling Checker for Visual Studio Code.
 
-17. CodeSnap (adpyke) - Simplifies the process of taking code screenshots.
+18. CodeSnap (adpyke) - Simplifies the process of taking code screenshots.
 
-18. vscode-icons (VSCode Icons Team) - Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
+19. vscode-icons (VSCode Icons Team) - Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
 
-19. GitLens (GitKraken) - It is a powerful extension that integrates Git capabilities directly into your editor.
+20. GitLens (GitKraken) - It is a powerful extension that integrates Git capabilities directly into your editor.
 
-20. Code Runner (Jun Han) - Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
+21. Code Runner (Jun Han) - Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
+    
+22. GitHub Copilot (GitHub github.com)
+    
+23. One Dark Pro (binaryify)
+    
+24. Learn with Sumit Theme (Learn with Sumit) 
 
