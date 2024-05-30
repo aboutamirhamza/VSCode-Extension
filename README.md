@@ -1,4 +1,4 @@
-<h1>VS Code Extensions For WordPress</h1>
+<h1>VS Code Extensions</h1>
 <br>
 <h2>HTML & CSS Extensions:</h2>
 <br>
