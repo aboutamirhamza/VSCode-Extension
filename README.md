@@ -1,7 +1,7 @@
 <h1>VS Code Extensions For WordPress</h1>
 <br>
 <h2>HTML & CSS Extensions:</h2>
-<br><br>
+<br>
 
 1. Auto Rename Tag (Jun Han) - Automatically renames HTML or XML tags when you modify the opening or closing tag.
 
@@ -18,10 +18,9 @@
 7. Stylelint (Stylelint) - Official Stylelint extension for Visual Studio Code.
 
 8. Tailwind CSS IntelliSense (Tailwind Labs) - Intelligent Tailwind CSS tooling for VS Code.
-<hr>
 
 <h2>JavaScript Extensions:</h2>
-<br><br>
+<br>
 
 9. JavaScript (ES6) Code Snippets (charalampos karypidis) - Extension offers a collection of handy code snippets that can save you time and effort while writing JavaScript code.
 
@@ -29,10 +28,8 @@
 
 11. Prettier (Prettier) - Code formatter that enforces consistent code style across your projects.
 
-<hr>
-
 <h2>PHP Extensions:</h2>
-<br><br>
+<br>
 
 12. PHP Intelephense
 
@@ -40,10 +37,8 @@
 
 14. PHP Namespace Resolver
 
-<hr>
-
 <h2>BOOST UP EDITOR:</h2>
-<br><br>
+<br>
 
 15. Live Server (Ritwick Dey) - Allows you to create a local development server with live reloading.
 
