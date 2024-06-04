@@ -82,7 +82,7 @@
 
 
 
-<h2>PHP Path SHortcut System:</h2>
+<h2>PHP File Make Shortcut:</h2>
 <br>
 
 
