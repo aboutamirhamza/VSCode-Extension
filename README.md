@@ -89,10 +89,42 @@
 Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> html.json(HTML) -> Enter
 
         "php": {
-            "prefix": "php",
-            "body": [
-                "<?php ?>"
-            ],
-            "description": "PHP Tag"
-        }
+		"prefix": "php",
+		"body": [
+			"<?php ?>"
+		],
+		"description": "PHP Tag"
+	}
 
+
+	"phpecho": {
+		"prefix": "phpecho",
+		"body": [
+			"<?php echo ''; ?>"
+		],
+		"description": "PHP echo"
+	}
+
+	"phpinclude": {
+		"prefix": "phpecho",
+		"body": [
+			"<?php include ''; ?>"
+		],
+		"description": "PHP include"
+	}
+
+	"phprequire_once": {
+		"prefix": "phpecho",
+		"body": [
+			"<?php require_once ''; ?>"
+		],
+		"description": "PHP require_once"
+	}
+
+	"phprequire": {
+		"prefix": "phpecho",
+		"body": [
+			"<?php require ''; ?>"
+		],
+		"description": "PHP require"
+	}
