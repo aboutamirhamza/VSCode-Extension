@@ -54,9 +54,45 @@
 
 21. Code Runner (Jun Han) - Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
     
-22. GitHub Copilot (GitHub github.com)
+22. GitHub Copilot (GitHub github.com) - This extension is enabled globally. Get Code Suggestions in real-time, right in your IDE
     
-23. One Dark Pro (binaryify)
+23. One Dark Pro (binaryify) - Atom's iconic One Dark theme for Visual Studio Code. Atom's iconic One Dark theme, and one of the most installed themes for VS Code!
     
-24. Learn with Sumit Theme (Learn with Sumit) 
+24. Learn with Sumit Theme (Learn with Sumit) - Official VS Code theme of Learn with Sumit! This extension is enabled globally.
+
+25. Error Lens (Alexander) - Improve highlighting of errors, warnings and other language diagnostics.
+
+26. Material Icon Theme (Philipp Kief) - Material Design Icons for Visual Studio Code.
+
+27. Peacock (John Papa) - Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
+
+28. Auto-Open Markdown Preview (hnw) - Open Markdown preview automatically when opening a Markdown file.
+
+29. Markdown All in One (Yu Zhang) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+
+30. IntelliCode (Microsoft) - AI-assisted development.
+
+31. Git History (Don Jayamanne) - View git log, file history, compare branches or commits.
+
+32. Git Graph (mhutchie) - View a Git Graph of your repository, and perform Git actions from the graph.
+
+33. vscode-pets (Anthony Shaw) - Pets for your VS Code.
+
+34. Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java & more (TabNine) - AI coding assistant with AI code completions and AI code chat right in the IDE, helping developers by generating code, writing unit tests and documentation, explaining legacy code, and much more. Tabnine supports all major languages including JavaScript, Python, Java, Typescript c/c++ and more.
+
+
+
+<h2>PHP Path SHortcut System:</h2>
+<br>
+
+
+Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> html.json(HTML) -> Enter
+
+        "php": {
+            "prefix": "php",
+            "body": [
+                "<?php ?>"
+            ],
+            "description": "PHP Tag"
+        }
 
