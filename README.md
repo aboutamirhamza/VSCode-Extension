@@ -106,7 +106,7 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 	}
 
 	"phpinclude": {
-		"prefix": "phpecho",
+		"prefix": "phpinclude",
 		"body": [
 			"<?php include ''; ?>"
 		],
@@ -114,7 +114,7 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 	}
 
 	"phprequire_once": {
-		"prefix": "phpecho",
+		"prefix": "phprequire_once",
 		"body": [
 			"<?php require_once ''; ?>"
 		],
@@ -122,7 +122,7 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 	}
 
 	"phprequire": {
-		"prefix": "phpecho",
+		"prefix": "phprequire",
 		"body": [
 			"<?php require ''; ?>"
 		],
