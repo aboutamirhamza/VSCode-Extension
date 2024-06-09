@@ -83,6 +83,30 @@
 35. Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java & more (TabNine) - AI coding assistant with AI code completions and AI code chat right in the IDE, helping developers by generating code, writing unit tests and documentation, explaining legacy code, and much more. Tabnine supports all major languages including JavaScript, Python, Java, Typescript c/c++ and more.
 
 
+<h2>Laravel Extension:</h2>
+<br>
+
+36. Laravel Extra Intellisense (amir) - better intellisense for laravel projects.
+
+37. Laravel Blade Snippets (Winnie Lin) - Laravel blade snippets and syntax highlight support.
+
+38. Laravel Snippets (Winnie Lin) - Laravel snippets for Visual Studio Code (Support Laravel 5 and above).
+
+39. DotENV (mikestead) - Support for dotenv file syntax.
+
+40. Laravel Artisan (Ryan Naddy) - Run Laravel Artisan commands within Visual Studio Code.
+
+41. Laravel goto view (codingyu) - Quick jump to view.
+
+42. Laravel Goto Controller (ctf0) - Quick jump to controller.
+
+43. Laravel Blade formatter (Shuhei Hayashibara) - Laravel Blade formatter for VSCode.
+
+44. File Utils (Steffen Leistner) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
+
+45. Laravel Ide Helper (georgykurian) - Plugin to run Laravel Ide helper commands for better code suggestion. 
+
+
 
 <h2>PHP File Make Shortcut:</h2>
 <br>
@@ -130,3 +154,6 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 		],
 		"description": "PHP require"
 	}
+
+
+ 
