@@ -117,10 +117,12 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
         "php": {
 		"prefix": "php",
 		"body": [
-			"<?php ?>"
+			"<?php",
+				"",
+				"?>"
 		],
 		"description": "PHP Tag"
-	}
+	},
 
 
 	"phpecho": {
@@ -129,7 +131,7 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 			"<?php echo ''; ?>"
 		],
 		"description": "PHP echo"
-	}
+	},
 
 	"phpinclude": {
 		"prefix": "phpinclude",
@@ -137,7 +139,7 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 			"<?php include ''; ?>"
 		],
 		"description": "PHP include"
-	}
+	},
 
 	"phprequire_once": {
 		"prefix": "phprequire_once",
@@ -145,7 +147,7 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 			"<?php require_once ''; ?>"
 		],
 		"description": "PHP require_once"
-	}
+	},
 
 	"phprequire": {
 		"prefix": "phprequire",
@@ -153,7 +155,7 @@ Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> h
 			"<?php require ''; ?>"
 		],
 		"description": "PHP require"
-	}
+	},
 
 
  
