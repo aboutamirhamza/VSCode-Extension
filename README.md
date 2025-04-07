@@ -111,6 +111,12 @@
 <h2>PHP File Make Shortcut:</h2>
 <br>
 
+<h2>Others Extension</h2>
+
+Snippet Creator (Wware Consulting) This extension helps to automate snippet creation. Select the code you want to create snippet from and use command Create Snippet from the command palette or your custom keybind.
+
+😥 This extension was accidentally deleted from the marketplace in mid 2020, but is now back! The number of downloads count, unfortunately, has been reset to zero
+
 
 Vscode::Software::Menubar::-> File -> Preferences-> Configure User Snippets -> html.json(HTML) -> Enter
 
